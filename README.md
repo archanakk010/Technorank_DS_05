@@ -25,7 +25,8 @@ This project focuses on predicting whether a bank client will subscribe to a ter
 
 ---
 
-## 🛠 Libraries Used
+##  Libraries Used
+
 
 - Python
 - pandas
@@ -37,7 +38,7 @@ This project focuses on predicting whether a bank client will subscribe to a ter
 
 ##  Result
 
-Among all the models tested, the **Gradient Boosting Classifier** demonstrated the **highest test accuracy (0.9047,)** and **ROC AUC (0.9232)**, indicating strong predictive power. After applying **hyperparameter tuning**, its performance was further enhanced**highest test accuracy ( 0.9058,)**, confirming it as the most effective model for this classification task.
+Among all the models tested, the **Gradient Boosting Classifier** demonstrated the **highest test accuracy (0.9047,)** and **ROC AUC (0.9232)**, indicating strong predictive power. After applying **hyperparameter tuning**, its performance was further enhanced **highest test accuracy ( 0.9058,)**, confirming it as the most effective model for this classification task.
 
 ---
 
