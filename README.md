@@ -1,6 +1,7 @@
 # Enhancing Bank Marketing Model Performance through Feature Engineering and Selection
 
 This project aims to predict whether a client will subscribe to a term deposit using data from a Portuguese banking institution. It involves preprocessing, feature engineering, feature selection, and training of various classification models. Emphasis is placed on improving performance through ensemble models and hyperparameter tuning.
+
 ---
 
 ##  Overview
